@@ -1,0 +1,20 @@
+[
+  {
+    "pk": 1, 
+    "model": "auth.user", 
+    "fields": {
+      "username": "khayford", 
+      "first_name": "Kofi", 
+      "last_name": "Hayford", 
+      "is_active": true, 
+      "is_superuser": true, 
+      "is_staff": true, 
+      "last_login": "2012-12-05T19:36:58Z", 
+      "groups": [], 
+      "user_permissions": [], 
+      "password": "pbkdf2_sha256$10000$BOqijCiirQFu$xL/ydvXRvvEgo/MfQjm0ES5RITQP53zotO9oXRZ+P6M=", 
+      "email": "kofi.hayford@pallionghana.com", 
+      "date_joined": "2012-12-05T19:35:48Z"
+    }
+  }
+]
